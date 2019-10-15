@@ -10,3 +10,9 @@ A Country Finder (Incremental Search using Ajax Requests and jQuery JavaScript l
 - When the user mouses over a result in the result list, it lights up (different background color).
 - When a result list is displayed and the user hits an up or down arrow key, the appropriate result lights up.
 - When the user clicks a result while a result is lit up, the full country name of the appropriate result appears in the input field and the result list disappears.
+
+# Stack
+- JavaScript/jQuery
+- Node.js
+- HTML
+- CSS
