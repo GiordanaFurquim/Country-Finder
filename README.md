@@ -13,6 +13,6 @@ A Country Finder (Incremental Search using Ajax Requests and jQuery JavaScript l
 
 # Stack
 - JavaScript/jQuery
-- Node.js
-- HTML
-- CSS
+- Express/Node.js
+- HTML5
+- CSS3
